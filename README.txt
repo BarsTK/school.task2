@@ -1,0 +1,1 @@
+не использовал теги section and article
